@@ -11,9 +11,6 @@
 - Partner B create a branch with your name and...
     - Write a Javadoc comment for the ```changelastName(boolean justMarried, String newlast)```  method of class ```Person```. Provide preconditions and postconditions if needed.
     - Open a pull request for Partner B to review and merge.
-- Partner C (for teams with 3 members) create a branch with your name and...
-  - Write a Javadoc comment for the class ```Person``` 
-  - Open a pull request for Partner B to review and merge.
 
 ### Steps to be completed by each partner in the team:
 - Step 1:
